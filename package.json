@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "this project is for acet college where we connect students and alumni for betterment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquibdarain/acetConnect.com.git"
+  },
+  "author": "aquib darain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquibdarain/acetConnect.com/issues"
+  },
+  "homepage": "https://github.com/aquibdarain/acetConnect.com#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.5"
+  }
+}
